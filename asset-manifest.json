@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InstructionsForCookingDumplings/static/css/main.6c8e851f.css",
+    "main.js": "/InstructionsForCookingDumplings/static/js/main.c804b714.js",
+    "index.html": "/InstructionsForCookingDumplings/index.html",
+    "main.6c8e851f.css.map": "/InstructionsForCookingDumplings/static/css/main.6c8e851f.css.map",
+    "main.c804b714.js.map": "/InstructionsForCookingDumplings/static/js/main.c804b714.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c8e851f.css",
+    "static/js/main.c804b714.js"
+  ]
+}
